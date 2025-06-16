@@ -4,7 +4,7 @@
 <br>
 
 <p align="center">
-    <h1 align="center">✩ Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm MD NADIM SHAHRAR APURBO ✩</h1>
+    <h1 align="center">✩ Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm NADIM SHAHRAR APURBO ✩</h1>
     <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="5px"/></a>
 </p>
 
@@ -14,22 +14,16 @@
 
 <be>
 
-<h3 align="center">I'm a passionate Full Stack Developer from Bangladesh.</h3>
+<h3 align="center">I'm a passionate Software Developer from Bangladesh.</h3>
 <img width="265" style="border-radius:2rem" align="right" src="https://www.aalpha.net/wp-content/uploads/2021/02/python-for-web-development.gif"/>
 
 ## 🙋‍♂️ About Me
 
-- 👯 I’m working on **Machine Learning**
-- 📫 How to reach me: **nadimshahriarapurbo@gmail.com** | [+880 1716909892](tel:+8801716909892)
-- ⚡ Fun fact: *I like to participate in different kinds of olympiad and go to the GYM very often.*
-- 🚀 Founder of **Arionys Bangladesh**
-
-**Do you want to host your website?**  
-**Are you finding the best hosting provider?**  
-**So what are you waiting for...**  
-**👇👇 Check it out and get $200 and enjoy**
-
-[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=13b31bac6789&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
+- 👨‍💻 I am working in **Robotics, Programming and UAV Technology**, focusing on innovations and practical solutions.
+- 🌍 Passionate about exploring advanced technologies and developing real-world applications.
+- 🎯 Actively participating in **National and International tech festivals, olympiads, and competitions** to stay at the forefront of the technology landscape.
+- 🚀 Founder of **Arionys Bangladesh**, driving research, development, and deployment of next-generation technology solutions.
+- 📫 Contact: **nadimshahriarapurbo@gmail.com** | **+880 1716909892**
 
 ## 🚀 Languages and Tools:
 
@@ -68,12 +62,13 @@
 <br/><br/>
 
 ## Connect with me:
+
 <p align="left">
-<a href="https://linkedin.com/in/06nurahmed" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
-<a href="https://twitter.com/06nurahmed" target="blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href="https://www.instagram.com/06nurahmed/" target="blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href="https://www.youtube.com/channel/UC2TmzHkWeKpEXnYxRAHdjIQ"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
-<a href="https://www.facebook.com/06nurahmed" target="blank"><img src="https://img.icons8.com/fluency/48/000000/facebook-new.png"/></a>
-<a href="https://codepen.io/06nurahmed" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/06noorahmed" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nadim-shahriar-apurbo-9508692a9" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+<a href="https://twitter.com/nadim__shahriar" target="blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href="https://www.instagram.com/nadim_shahriar_apurbo/" target="blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<!-- <a href="https://www.youtube.com/channel/UC2TmzHkWeKpEXnYxRAHdjIQ"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a> -->
+<a href="https://www.facebook.com/nadim.shahriar.hello" target="blank"><img src="https://img.icons8.com/fluency/48/000000/facebook-new.png"/></a>
+<!-- <a href="https://codepen.io/06nurahmed" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/06noorahmed" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40" /></a> -->
 </p>
