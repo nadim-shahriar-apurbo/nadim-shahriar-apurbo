@@ -15,9 +15,10 @@
 <be>
 
 <h3 align="center">I'm a passionate Software Developer from Bangladesh.</h3>
-<img width="265" style="border-radius:2rem" align="right" src="https://www.aalpha.net/wp-content/uploads/2021/02/python-for-web-development.gif"/>
+<!-- <img width="265" style="border-radius:2rem" align="right" src="https://www.aalpha.net/wp-content/uploads/2021/02/python-for-web-development.gif"/> -->
 
 ## 🙋‍♂️ About Me
+<img width="265" style="border-radius:2rem" align="right" src="https://www.aalpha.net/wp-content/uploads/2021/02/python-for-web-development.gif"/>
 
 - 👨‍💻 I am working in **Robotics, Programming and UAV Technology**, focusing on innovations and practical solutions.
 - 🌍 Passionate about exploring advanced technologies and developing real-world applications.
